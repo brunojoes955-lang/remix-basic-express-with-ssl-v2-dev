@@ -1,6 +1,6 @@
 name: NodeJS with Webpack
 
-on:
+on: @override
   push:
     branches: [ "main" ]
   pull_request:
